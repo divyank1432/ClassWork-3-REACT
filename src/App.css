@@ -1,0 +1,12 @@
+.section1 {
+  width: 90vw;
+  background-image: url(./imgs/modern-dining-hall-ceiling-design.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 90vh;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
